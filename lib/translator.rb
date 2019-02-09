@@ -1,4 +1,4 @@
-require relative 'emoticons.yml'# require modules here
+require 'emoticons.yml'# require modules here
 
 def load_library
   # code goes here
